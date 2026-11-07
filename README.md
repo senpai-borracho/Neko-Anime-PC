@@ -1,3 +1,11 @@
+<img width="1046" height="333" alt="8" src="https://github.com/user-attachments/assets/0f2e9e35-f613-4dc2-b99d-1ac2509aed09" />
+<img width="1231" height="241" alt="7" src="https://github.com/user-attachments/assets/fdd72d80-d94a-4ff6-a74d-683f71ff7d6b" />
+<img width="571" height="622" alt="6" src="https://github.com/user-attachments/assets/f312c523-3cdb-4fab-be62-0b72e24f9497" />
+<img width="1277" height="466" alt="5" src="https://github.com/user-attachments/assets/60494ecc-6d51-4605-bc90-d7941d55c61b" />
+<img width="688" height="502" alt="4" src="https://github.com/user-attachments/assets/ff752057-4ff7-402e-8623-7f341b0b9c13" />
+<img width="1279" height="666" alt="3" src="https://github.com/user-attachments/assets/180292d0-e8f6-478d-b230-05fe4360774d" />
+<img width="1279" height="656" alt="2" src="https://github.com/user-attachments/assets/621181c0-1e2d-44fd-899a-c57c216a4aa3" />
+<img width="1277" height="660" alt="1" src="https://github.com/user-attachments/assets/e9c96582-434a-406b-bcd1-7797161429e2" />
 # Neko Player PC 0.3.0
 
 Aplicación nativa para Windows x64, con Flutter Desktop y reproducción integrada mediante libmpv/media_kit.
