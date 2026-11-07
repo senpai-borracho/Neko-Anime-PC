@@ -1,0 +1,15 @@
+Archivos de la versión actual idénticos por SHA-256: 128
+Código modificado:
+lib\main.dart
+lib\addons\anix_catalog.dart
+lib\addons\plugin_manager.dart
+lib\addons\stremio_client.dart
+lib\media\downloads.dart
+lib\media\http_media.dart
+test\addons_test.dart
+test\downloads_test.dart
+Motores, extractores, runtime Node, dependencias y empaquetado idénticos a la versión actual.
+51 pruebas aprobadas. Análisis de archivos de código modificados: sin incidencias.
+La versión actual se conserva. No se han reemplazado setup ni standalone anteriores.
+Ver OPTIMIZACION.md para las mediciones y límites.
+Identidad actualizada: Neko Anime 0.3.1 Stable; version 0.3.1+7. Sin cambios funcionales. Paquetes anteriores conservados; falta compilar esta version.

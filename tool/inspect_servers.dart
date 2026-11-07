@@ -1,0 +1,1 @@
+﻿import 'dart:io';import 'package:html/parser.dart';void main(){final d=parse(File('tool/fixtures/flv_new_episode.html').readAsStringSync());for(final b in d.querySelectorAll('.server_btn')){stdout.writeln('${b.parent?.querySelector(".tooltip-text")?.text} ${b.attributes["data-src"]}');}}

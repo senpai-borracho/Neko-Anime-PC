@@ -1,0 +1,35 @@
+name: neko_player_pc
+description: "Neko Anime 0.3.1 Stable — catálogo de anime y reproductor de escritorio."
+publish_to: 'none'
+version: 0.3.1+7
+environment:
+  sdk: ^3.13.7
+dependencies:
+  flutter:
+    sdk: flutter
+  path: ^1.9.1
+  file_selector: ^1.0.3
+  html: ^0.15.7
+  media_kit: ^1.2.6
+  media_kit_video: ^2.0.1
+  media_kit_libs_windows_video: ^1.0.11
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  integration_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/extensions/
+    - LICENSE
+    - licenses/
+    - assets/neko_download_wave.png
+    - assets/neko_mascot.png
+    - assets/neko_welcome.png
+    - assets/neko_logo_sleeping.png
+  fonts:
+    - family: Manrope
+      fonts:
+        - asset: assets/Manrope.ttf
