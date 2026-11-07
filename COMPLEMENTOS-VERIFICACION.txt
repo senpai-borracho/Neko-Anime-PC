@@ -1,0 +1,6 @@
+Runtime Node privado incluido. No depende de Node global ni PATH.
+46 pruebas aprobadas. Standalone verificado sin Node en PATH y reextraido en una ruta con espacios.
+Interfaz standalone y portadas Anix comprobadas. Contrato Nuvio verificado en el ejecutable compilado.
+Setup con AppId y carpeta lite separados de la instalacion original; no se ejecuto el instalador.
+Cambios del puente Anix limitados a localizar/iniciar el runtime incluido. Extractores y contratos intactos.
+Ver EMPAQUETADO-LITE.md para detalles.
